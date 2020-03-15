@@ -58,7 +58,7 @@ The idea is to keep your LinkedIn photo identifiable and professional. Also, to 
 
 You don’t have to invest hundreds in a professional photographer to get a polished photo. (However, if you do have the funds, it’s certainly a worthwhile investment.) Many have a friend (or two) with a photography hobby - and they’re the perfect people to ask. If you’re unable to find a friend with a nice camera, you can always use your smartphone. Learn some [smartphone portrait pro-tips here](http://www.sitepoint.com/faking-pro-portraits-phone-camera/). Basically, you want to be aware of lighting and the background. 
 
-**Professional Headline:** By default, LinkedIn will use your first job title from your Experience section as your professional headline which appears right under your name at the top. Since this is likely totally unrelated to your new career pursuit, we suggest you go into “Edit Profile” mode and change your Headline to something that not only entices people to read your profile, but that also optimizes the visibility and findability of your profile by recruiters who are searching for candidates with particular keywords in their profile, such as *Full Stack Web Developer* or *UX Designer* or *Data Scientist*, etc. While you’re still in school, you can put your headline as “Student in..." or "Studying... (your field of study)” @ Flatiron School”. Be mindful that once your headline says ou are already working in your new vocation, you’re more likely to get pinged by recruiters, and you want to wait until you’re really ready before you make that your headline. Once you graduate you will want to update your Headline accordingly.
+**Professional Headline:** By default, LinkedIn will use your first job title from your Experience section as your professional headline which appears right under your name at the top. Since this is likely totally unrelated to your new career pursuit, we suggest you go into “Edit Profile” mode and change your Headline to something that not only entices people to read your profile, but that also optimizes the visibility and findability of your profile by recruiters who are searching for candidates with particular keywords in their profile, such as *Cybersecurity Analyst*, *Cybersecurity Engineer*, *Penetration Tester*, Professional, and/or Associate , etc. While you’re still in school, you can put your headline as “Student in..." or "Studying... (your field of study)” @ Flatiron School”. Be mindful that once your headline says ou are already working in your new vocation, you’re more likely to get pinged by recruiters, and you want to wait until you’re really ready before you make that your headline. Once you graduate you will want to update your Headline accordingly.
 
 **A Custom Profile URL:** LinkedIn allows you to make a custom URL for your profile. Usually it will look something like this: https://www.linkedin.com/in/yourname You can customize yours in the “Edit profile” section. A custom URL looks more professional and adds legitimacy. 
 
@@ -67,6 +67,8 @@ You don’t have to invest hundreds in a professional photographer to get a poli
 **Contact Info:** You want people to be able to easily get in touch with you. Fill out the Contact Information (it’s at the bottom of your main information box where you will see “Contact Info”) Populate these fields with your email, phone and link to your other online professional profiles, such as a personal website/portfolio, and/or blog, GitHub, etc. (depending on your field of study). 
 
 **Summary:** This is a 2,000 character advertisement you can write for yourself! Describe how you can benefit a company here and, again, be sure to add all your contact information (email, phone, etc.) to make it easy to get a hold of you. This can be the same language as the “bio” that you create for the top of your resume (which you’ll work with your coach on!). *NOTE:* Only the first 250 characters will automatically display at first; the rest will be truncated until the user clicks on “Show more”...so plan the first 250 characters accordingly to capture and hold visitors’ attention.
+
+**Experience Section** One creative way that students of cybersecurity have highlighted their skills gained from training is to add "Student, Cybersecurity Analyst Program" to their experience section under the company, Flatiron School. Upon graduation "Student" should change to "Graduate" or similar. The benefits include filling job gaps, more room for adding technical skills and exposure, and the section will show up closer to the top of the profile hierarchically. Adding technical keywords relevant to cybersecurity will improve your search engine optimization, which in turn will improve recruiters' ability to find you. While this is not paid experience, your exposure in class and labs closely reflects your team work environment and problem solving in a professional environment. Additionally, we recommend adding your training to your Education section as well.
 
 **Keywords:** Be searchable on LinkedIn. Decide what employers will be searching for to find candidates like you, and then make sure you fill up your profile with those keywords. Your keyword is your job title, core function, or core skill. To come up high in LinkedIn searches for your keyword, add your keyword throughout your profile, but especially in these sections: Headline, Summary, Current Job title, Past job title. To get ideas on all the places to put your keywords, search and look at profiles of other professionals with skills like yours or who are in the types of roles you desire.
 
@@ -109,10 +111,16 @@ LinkedIn has many features like the ability to apply for jobs, join groups, mess
 
 ## Resources
 
+Here are some SecureSet alumni with excellent profiles (Detailed summary, volunteering, completeness):
+
+- [Carissa Nichols](https://www.linkedin.com/in/carissanichols) 
+- [Jessica Saas](https://www.linkedin.com/in/jessicasaas) 
+- [Kevin Garrett](https://www.linkedin.com/in/kg404)   
+- [Kimberly Decker](https://www.linkedin.com/in/kimberly-decker/)
+- [Ian Nyabwari](https://www.linkedin.com/in/sucexor/)
+
 [The Complete Guide to the Perfect LinkedIn Profile](https://www.armstrongappointments.com/the-complete-guide-to-the-perfect-linkedin-profile/)
 
 [Creative Ways to Use LinkedIn in Your Job Search](https://blog.simplyhired.com/jobsearch/job-search-tips/creative-ways-use-linkedin-job-search/)
 
 [31 LinkedIn skills for Flatiron School grads](https://medium.com/@sylwiavargas/25-linkedin-skills-for-flatiron-school-students-dedd6a188c54)
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/linkedin-presence'>LinkedIn Presence</a> on Learn.co and start learning to code for free.</p>
