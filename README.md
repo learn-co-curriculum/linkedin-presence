@@ -95,11 +95,11 @@ Another tip to follow, especially when connecting with people you just met, is t
 
 However, if you'd like to make a cold outreach or connect with someone you never “met”, here are a few ways to go about it:
 
-1. **Pay them a compliment.** Maybe you read their blog and love it. If that’s the case, let them know this in your invitation message. Say something like, “Hey! I follow your blog and love what you share. Wanted to stay up to date with you on LinkedIn as well.”
+**Pay them a compliment.** Maybe you read their blog and love it. If that’s the case, let them know this in your invitation message. Say something like, “Hey! I follow your blog and love what you share. Wanted to stay up to date with you on LinkedIn as well.”
 
-2. **Identify a mutual connection.** And use that shared connection as your "in."
+**Identify a mutual connection.** And use that shared connection as your "in."
 
-3. **Note a common interest.** Perhaps you’re both members of a certain LinkedIn group, or you both volunteer with the same nonprofit. 
+**Note a common interest.** Perhaps you’re both members of a certain LinkedIn group, or you both volunteer with the same nonprofit. 
 
 The point is: whenever connecting with someone on LinkedIn, make sure you give them a reason *why* they should accept your invitation. If they are unsure who you are, and your invitation message is blank, the chances of them connecting with you is slim to none. Especially for influencers who are bombarded with invites everyday, you want to make sure yours stands out from the rest. 
 
